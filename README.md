@@ -1,9 +1,5 @@
 # Hi, I'm Akhitha 👋
 
-Hey there! I'm a Computer Science student under KTU who is  passionate about AI, Machine Learning, and intelligent systems.
-
-I enjoy exploring DSA, building projects, and learning new technologies. I'm also active in tech communities and hackathons.
-
 # 💫 About Me:
 I'm a passionate Computer Science student who loves exploring the intersection of Artificial Intelligence, Machine Learning, and intelligent systems. I enjoy diving deep into concepts, solving challenging problems, and continuously improving my coding skills.<br><br>My interests revolve around AI, Machine Learning, Brain-Computer Interfaces, and Data Engineering, and I’m always curious about how technology can be used to build impactful solutions that benefit people in real life.<br><br>Beyond academics, I actively participate in tech communities, student clubs, workshops, and hackathons, where I collaborate with others, share knowledge, and learn by building real projects.<br><br>🧠 Interests<br><br>Artificial Intelligence & Machine Learning<br><br>Brain-Computer Interfaces (BCI)<br><br>Data Engineering & Cloud Computing<br><br>Data systems and scalable technologies<br><br>Competitive programming & Data Structures and Algorithms.<br>Python | C | C++ | Java | Python for Data ScienceIMY SQP,DATA VISUALIZATION.<br>-PROGRAMING LANGUAGES<br>⚡ Frameworks & Libraries<br><br>React | Node.js | Next.js | Flutter<br>TensorFlow | Streamlit<br><br>☁️ Platforms & Tools<br><br>GitHub | VS Code | Firebase | Vercel<br><br>🗄️ Databases<br><br>Firebase | MySQL<br><br>
 
