@@ -12,7 +12,7 @@ Hi there! I'm Akhitha, a passionate Computer Science student who loves exploring
 - Data systems and scalable technologies
 - Competitive programming & Data Structures and Algorithms
 
-Email: formystudy2007@gmail.com
+Email: akhithavsnair@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhithaaa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhitha-v-nair-5716b5385) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akhitha V Nair) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:formystudy2007@gmail.com)
